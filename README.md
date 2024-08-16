@@ -1,3 +1,6 @@
+Linear Regression model for predicting house prices
+
+
 Import Libraries using:
 
 pip install 
